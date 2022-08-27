@@ -1,6 +1,7 @@
-Create a coffe logo animated with css --> .transform a rectangle when we hover the logo -> the coffee maker go up and the coffee goes in a glass
+Create a coffee logo animated with css --> .transform a rectangle when we hover the logo -> the coffee maker go up and the coffee goes in a glass
 --> the coffee shape can be hidden behind a white / background color rectangle
 after the animation ?
     -  stuck the animation  
     -  find a way to don't animate again the coffee shape
+    -  use a delay for each animation
 
